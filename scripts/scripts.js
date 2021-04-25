@@ -1,27 +1,8 @@
 /////////////////////LOADER//////////////////////////
 window.addEventListener("load", function(){
-    console.log("cargado");
+    
     document.getElementById("contenedor-loader").classList.toggle("cerrar-loader");
 })
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 //////////////////MENU RESPONSIVO////////////////////
