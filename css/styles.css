@@ -266,6 +266,7 @@ nav.cont-navegacion{
   height: 200px;
   border-radius: 50%;
   background: #303030;
+  display: none;
 
 }
 .header-texto{
